@@ -35,9 +35,9 @@ rvm install 2.3.1
 
 3. Now that Ruby is installed, you can proceed to install Jekyll based on the system:
 
-3.1 For Mac
+##### 3.1. For Mac
 
-Copy paste the following:
+Copy paste the following in your Terminal:
 
 a. Installs required dependencies to install Jekyll
 
@@ -66,7 +66,7 @@ export PATH=$HOME/gems/bin:$PATH
 
 For more information / reference, [check this doc](https://jekyllrb.com/docs/installation/macos/).
 
-3.2 For Ubuntu
+##### 3.2. For Ubuntu
 
 a. Make sure you have the required dependencies for Jekyll. Copy paste the following in your Terminal.
 
