@@ -97,3 +97,33 @@ This should install Jekyll and necessary files.  If you need more information, r
 
 ### Install Git
 
+In order to use various templates off from the web to create your website, we would also need a popular version control system Git. You can get [all installation instructions here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Also, make sure you have created your [Github account](https://github.com/join) to be able to host your own webpages.
+
+## Installation - Using al-folio theme
+
+Jekyll provides a nice way to incorporate multiple themes for your website. In this tutorial, we will use the [al-folio](https://github.com/alshedivat/al-folio) theme which has a nice support for maintaining academic webpages including bibliography. To first install and run the theme, head over to the repository and "Fork" the repository to your own repository. You can give any name to your repository, ideally if you want Github to pick it up as your personal webpage then provide the name as `username.github.io`.
+
+Then, open your Terminal / Command Prompt and run these commands as mentioned in the [installation guide](https://github.com/alshedivat/al-folio#installation):
+
+```
+$ git clone git@github.com:<your-username>/<your-repo-name>.git
+$ cd <your-repo-name>
+$ bundle install
+$ bundle exec jekyll serve
+```
+
+Thats it! Let us first see how the default website looks like. Run the following from the folder in your terminal:
+
+```
+jekyll serve
+```
+
+This will open up the default website in your browser. If it didn't open up automatically, just head over to a browser and paste this in the run bar:
+
+```
+http://127.0.0.1:4000
+```
+
+## Building the website
+
+Coming Soon
