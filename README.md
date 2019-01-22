@@ -108,8 +108,8 @@ Jekyll provides a nice way to incorporate multiple themes for your website. In t
 Then, open your Terminal / Command Prompt and run these commands as mentioned in the [installation guide](https://github.com/alshedivat/al-folio#installation):
 
 ```
-$ git clone git@github.com:<your-username>/<your-repo-name>.git
-$ cd <your-repo-name>
+$ git clone https://github.com/alshedivat/al-folio.git al-folio
+$ cd al-folio
 $ bundle install
 $ bundle exec jekyll serve
 ```
