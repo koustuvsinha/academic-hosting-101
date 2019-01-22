@@ -103,7 +103,7 @@ In order to use various templates off from the web to create your website, we wo
 
 ## Jekyll Theme Installation - Using al-folio theme
 
-Jekyll provides a nice way to incorporate multiple themes for your website. In this tutorial, we will use the [al-folio](https://github.com/alshedivat/al-folio) theme which has a nice support for maintaining academic webpages including bibliography. To first install and run the theme, head over to the repository and "Fork" the repository to your own repository. You can give any name to your repository, ideally if you want Github to pick it up as your personal webpage then provide the name as `username.github.io`.
+Jekyll provides a nice way to incorporate multiple themes for your website. In this tutorial, we will use the [al-folio](https://github.com/alshedivat/al-folio) theme which has a nice support for maintaining academic webpages including bibliography. To first install and run the theme, **clone** the repository.
 
 Then, open your Terminal / Command Prompt and run these commands as mentioned in the [installation guide](https://github.com/alshedivat/al-folio#installation):
 
